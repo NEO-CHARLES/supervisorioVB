@@ -1,0 +1,9 @@
+C:\Users\Cristiano\Documents\empresa\Plano de Negócio Loja Arduino\Video Aulas\SupervisórioVB\projeto\SupervisorioArduino\SupervisorioArduino\bin\Debug\SupervisorioArduino.exe
+C:\Users\Cristiano\Documents\empresa\Plano de Negócio Loja Arduino\Video Aulas\SupervisórioVB\projeto\SupervisorioArduino\SupervisorioArduino\bin\Debug\SupervisorioArduino.pdb
+C:\Users\Cristiano\Documents\empresa\Plano de Negócio Loja Arduino\Video Aulas\SupervisórioVB\projeto\SupervisorioArduino\SupervisorioArduino\bin\Debug\SupervisorioArduino.xml
+C:\Users\Cristiano\Documents\empresa\Plano de Negócio Loja Arduino\Video Aulas\SupervisórioVB\projeto\SupervisorioArduino\SupervisorioArduino\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Cristiano\Documents\empresa\Plano de Negócio Loja Arduino\Video Aulas\SupervisórioVB\projeto\SupervisorioArduino\SupervisorioArduino\obj\x86\Debug\SupervisorioArduino.vbproj.GenerateResource.Cache
+C:\Users\Cristiano\Documents\empresa\Plano de Negócio Loja Arduino\Video Aulas\SupervisórioVB\projeto\SupervisorioArduino\SupervisorioArduino\obj\x86\Debug\SupervisorioArduino.exe
+C:\Users\Cristiano\Documents\empresa\Plano de Negócio Loja Arduino\Video Aulas\SupervisórioVB\projeto\SupervisorioArduino\SupervisorioArduino\obj\x86\Debug\SupervisorioArduino.xml
+C:\Users\Cristiano\Documents\empresa\Plano de Negócio Loja Arduino\Video Aulas\SupervisórioVB\projeto\SupervisorioArduino\SupervisorioArduino\obj\x86\Debug\SupervisorioArduino.pdb
+C:\Users\Cristiano\Documents\empresa\Plano de Negócio Loja Arduino\Video Aulas\SupervisórioVB\projeto\SupervisorioArduino\SupervisorioArduino\obj\x86\Debug\WindowsApplication1.Form1.resources
