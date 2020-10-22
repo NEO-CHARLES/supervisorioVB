@@ -2,10 +2,12 @@
 
 Public Class Form1
 
-    Dim com3 As IO.Ports.SerialPort = Nothing
+    'Dim com3 As IO.Ports.SerialPort = Nothing
     Public Shared Function GetPortNames() As String()
 
+#Disable Warning BC42105 ' A função não retorna um valor em todos os caminhos de código
     End Function
+#Enable Warning BC42105 ' A função não retorna um valor em todos os caminhos de código
     Public Property PortaSerial As SerialPort
         Get
             Return com3
